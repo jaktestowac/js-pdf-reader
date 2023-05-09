@@ -1,0 +1,15 @@
+{
+  "name": "js-pdf-reader",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "read": "node pdf-reader"
+  },
+  "author": "jaktestowac.pl",
+  "license": "ISC",
+  "dependencies": {
+    "pdf.js-extract": "^0.2.1"
+  }
+}
