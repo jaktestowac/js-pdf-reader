@@ -5,7 +5,7 @@
   "main": "index.js",
   "type": "module",
   "scripts": {
-    "read": "node pdf-reader"
+    "read": "node examples/pdf-js-extract.example"
   },
   "author": "jaktestowac.pl",
   "license": "ISC",
